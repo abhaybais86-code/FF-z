@@ -1,0 +1,8 @@
+{
+  "name": "FF Arena",
+  "description": "India’s premier skill-based Free Fire platform for competitive tournaments, real cash prizes, FairPlay protection, and instant secure withdrawals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
